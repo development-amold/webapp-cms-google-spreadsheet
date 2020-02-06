@@ -1,0 +1,9 @@
+table {
+  padding: 10px;
+  background: #666; /* gray */
+}
+td {  
+  padding: 5px 10px;
+  background: #fcc; /* pink */
+  border: 3px solid #fff; /* white */
+}
